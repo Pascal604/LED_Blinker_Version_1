@@ -10,7 +10,7 @@
  * 
  */
 
-
+#define grueneLED 3 //grüne LED
 
 void setup() 
 {
